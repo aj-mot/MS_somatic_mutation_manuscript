@@ -1,6 +1,6 @@
 # MS_somatic_mutation_manuscript
 
-Custom code and data for the manuscript Motyer et al, "Neuronal somatic mutations are increased in multiple sclerosis lesions".
+Custom code and data for the manuscript Motyer, A., Jackson, S., Yang, B. et al. Neuronal somatic mutations are increased in multiple sclerosis lesions. Nat Neurosci (2025). https://doi.org/10.1038/s41593-025-01895-5
 
 This repository is organized into the following directories:
 
